@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-25T12:31:19.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="sSxa73dRG5i0NJyR6Vbc" version="15.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-25T12:32:09.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="U6Hi2nKX_qYMdLKHbFud" version="15.3.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="342" dy="1719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="552" dy="1828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,7 +215,7 @@
             <mxPoint x="1593.386631871416" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="din8F_Qt1sH1hLo-0JBV-141" value="Field" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="din8F_Qt1sH1hLo-0JBV-141" value="Department" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2670" y="800" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="din8F_Qt1sH1hLo-0JBV-142" value="numberOfLessons" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -224,11 +224,11 @@
         <mxCell id="din8F_Qt1sH1hLo-0JBV-143" value="urlViedoLesson" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3190" y="640" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="din8F_Qt1sH1hLo-0JBV-144" value="&lt;u&gt;GeneralField&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2930" y="810" width="120" height="80" as="geometry" />
+        <mxCell id="din8F_Qt1sH1hLo-0JBV-144" value="&lt;u&gt;departmentName&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2920" y="780" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="din8F_Qt1sH1hLo-0JBV-145" value="DetailsField" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2910" y="892.5" width="120" height="80" as="geometry" />
+        <mxCell id="din8F_Qt1sH1hLo-0JBV-145" value="fieldName" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2920" y="867.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="din8F_Qt1sH1hLo-0JBV-147" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="din8F_Qt1sH1hLo-0JBV-130" target="din8F_Qt1sH1hLo-0JBV-78" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -273,10 +273,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="din8F_Qt1sH1hLo-0JBV-156" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2195" y="730" width="40" height="20" as="geometry" />
+          <mxGeometry x="2630" y="812.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="din8F_Qt1sH1hLo-0JBV-157" value="M" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2630" y="820" width="40" height="20" as="geometry" />
+          <mxGeometry x="2200" y="730" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="din8F_Qt1sH1hLo-0JBV-158" value="stuReview" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2420" y="1070" width="120" height="80" as="geometry" />
